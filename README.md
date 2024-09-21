@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thowpic Ali.I</h1>
+<h1 align="center">Hi 👋, I'm Thowpic</h1>
 <h3 align="center">A innovative software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thowpic&label=Profile%20views&color=0e75b6&style=flat" alt="thowpic" /> </p>
