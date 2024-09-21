@@ -4,12 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thowpic&label=Profile%20views&color=0e75b6&style=flat" alt="thowpic" /> </p>
 
 - 🌱 I’m currently learning **
-<ul>
-<li>java</li>
-
-
-
-<\ul>
+••java
+••C
+••C++
+••java script
 **
 
 - 📫 How to reach me **thowpicali007@gmail.com**
