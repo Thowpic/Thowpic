@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋togo
+<h1 align="center">Hi👋<\h1>
 # Hey there! I'm Thowpic 👨‍💻
 Welcome to my GitHub corner! I'm Thowpic, a full-stack web java & web passionate about turning ideas into reality through clean, efficient code. I love diving into new technologies and contributing to impactful projects.
 
