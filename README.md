@@ -9,8 +9,8 @@ Welcome to my GitHub corner! I'm Thowpic, a full-stack web java & web passionate
 - **Version Control**: Git, GitHub
 
 ### 📬 Get in Touch:
-- **Email**: [codewithjahir@gmail.com]
-- **LinkedIn**: [www.linkedin.com/in/jahirhussain786]
+- **Email**: [thowpicali007@gmail.com]
+- **LinkedIn**: [www.linkedin.com/in/thowpicwd007]
 - **Portfolio**: [Soon..]
 
 ### 🎯 Fun Tidbits:
